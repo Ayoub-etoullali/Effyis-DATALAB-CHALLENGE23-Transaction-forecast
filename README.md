@@ -13,7 +13,6 @@ This repository contains a Python script developed for the Fintech DataLab Chall
 - [Script Overview](#script-overview)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
@@ -32,7 +31,6 @@ To run the script, you need the following prerequisites:
 
    ```bash
    git clone https://github.com/Ayoub-etoullali/Effyis-DATALAB-CHALLENGE23-Transaction-forecast
-   cd your-repository
 
 
 <br>
