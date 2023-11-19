@@ -1,45 +1,39 @@
-# MeriSKILL Internship Projects
+# Fintech Data Analysis and Forecasting Challenge
+![image](https://github.com/Ayoub-etoullali/Effyis-DATALAB-CHALLENGE23-Transaction-forecast/assets/92756846/76ec7573-f725-4aed-969e-ba08b1c13165)
 
-<img src="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/bb84c133-8793-4b7c-a0d2-1e45bdcaf1fb" class="center">
+## Overview
 
-to the MeriSKILL Data Analyst Internship! This repository contains information and resources for the three exciting data analysis projects you'll be working on during your internship. Below is a brief overview of each project:
+This repository contains a Python script developed for the Fintech DataLab Challenge23, focusing on forecasting client transactions for a leading fintech company. The script utilizes a linear regression model to predict transaction amounts based on historical data.
 
-## Project 1: Sales Data Analysis
+## Contents
 
-**Purpose:** Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Script Overview](#script-overview)
+- [Evaluation](#evaluation)
+- [Results](#results)
+- [License](#license)
 
-**Description:** In this project, you will dive into a large sales dataset to extract valuable insights. You'll explore sales trends over time, identify the best-selling products, calculate revenue metrics, and create effective visualizations. This project will showcase your ability to manipulate and derive insights from large datasets, enabling data-driven recommendations for optimizing sales strategies.
+## Introduction
 
-**link:**
-<a href="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/tree/main/project%201">
-    Sales Data Analysis 
-  </a>
+The Fintech DataLab Challenge23 aims to predict client transaction amounts using a provided dataset from a leading fintech company. This Python script leverages the scikit-learn library to implement a simple linear regression model for forecasting.
 
-## Project 2: Diabetic Patients
+## Prerequisites
 
-**Purpose:** Explore diabetic patient data to identify trends and patterns that can aid in improving healthcare outcomes.
+To run the script, you need the following prerequisites:
 
-**Description:** This project focuses on analyzing diabetic patient data to identify trends, risk factors, and patterns. By applying data analytics, you'll aim to improve healthcare outcomes and contribute to the field of medical research.
+- Python 3
+- Required libraries: numpy, pandas, scikit-learn
 
-**link:**
-<a href="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/tree/main/project%202">
-    Diabetic Patients 
-  </a>
-  
-## Project 3: HR Analytics
+## Usage
 
-**Purpose:** Delve into the world of human resources, with a focus on data analysis to optimize talent management and organizational performance.
+1. Clone the repository:
 
-**Description:** In this project, you will work with HR data to uncover insights that can optimize talent management and enhance organizational performance. This project will provide you with valuable experience in HR analytics and its significance in organizational decision-making.
+   ```bash
+   git clone https://github.com/Ayoub-etoullali/Effyis-DATALAB-CHALLENGE23-Transaction-forecast
+   cd your-repository
 
-For detailed instructions, code, and data related to each project, please refer to the respective project folders in this repository.
-
-Feel free to reach out if you have any questions or need assistance during your internship. Best of luck with your projects!
-
-**link:**
-<a href="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/tree/main/project%203">
-    HR Analytics
-  </a> <br> <br>
 
 <br>
 
